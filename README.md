@@ -1,3 +1,3 @@
 # Holi 2025
 
-A belated Happy Holi to all those celebrating!
+An HTML and CSS Holi artwork. Belated Holi wishes to all those celebrating!
