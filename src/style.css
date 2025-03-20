@@ -1,0 +1,75 @@
+body {
+}
+.water-particle {
+  width: 50px;
+  height: 50px;
+  border-radius: 10% 54% 39% 53%;
+  background-color: #92FE9D;
+  position: absolute;
+  left: 39%;
+  box-shadow: 0px 4px 5px rgba(0,0,0,0.3);
+  transform: rotate(102deg);
+}
+body .water-particle3 {
+  background-color: rgba(9, 172, 251,0.6);
+  left: 68%;
+  transform: scale3d(2.5, -2.5, 1);
+  top: 36%;
+  border-radius: 38% 54% 39% 53%;
+}
+.water-particle.water-particle3.water-particle31 {
+  left: 24%;
+  top: 10%;
+  transform: scale3d(0.5, -0.5, 1);
+}
+.water-particle.water-particle4 {
+  background: rgb(34,193,195);
+  border-radius: 28% 79% 23% 78%;
+}
+.water-particle2 {
+  left: 10%;
+  top: 40%;
+  border-radius: 96% 73% 31% 41%;
+  transform: skew(20deg, 28deg);
+  height: 65px;
+  width: 26px;
+  background-color: rgba(5,117,177,0.7);
+  box-shadow: 1px 2px 4px rgba(1,1,1,0.7);
+}
+.holi-text {
+  font-family: "Cookie", cursive;
+  font-size: 12em;
+  text-align: center;
+  background: rgb(58, 178, 180);
+  background: -moz-linear-gradient(
+    90deg,
+    rgba(58, 178, 180, 1) 0%,
+    rgba(114, 173, 175, 1) 15%,
+    rgba(253, 230, 29, 1) 36%,
+    rgba(46, 128, 253, 1) 51%,
+    rgba(253, 66, 247, 1) 69%,
+    rgba(252, 69, 102, 1) 79%
+  );
+  background: -webkit-linear-gradient(
+    90deg,
+    rgba(58, 178, 180, 1) 0%,
+    rgba(114, 173, 175, 1) 15%,
+    rgba(253, 230, 29, 1) 36%,
+    rgba(46, 128, 253, 1) 51%,
+    rgba(253, 66, 247, 1) 69%,
+    rgba(252, 69, 102, 1) 79%
+  );
+  background: linear-gradient(
+    90deg,
+    rgba(58, 178, 180, 1) 0%,
+    rgba(114, 173, 175, 1) 15%,
+    rgba(253, 230, 29, 1) 36%,
+    rgba(46, 128, 253, 1) 51%,
+    rgba(253, 66, 247, 1) 69%,
+    rgba(252, 69, 102, 1) 79%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3ab2b4",endColorstr="#fc4566",GradientType=1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 3px 3px 7px rgba(99, 116, 99, 0.34);
+}
